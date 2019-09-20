@@ -1,4 +1,4 @@
-
+# Exponential Function
 def raised_to_power(num, power):
     base=num
     for index in range(power):
