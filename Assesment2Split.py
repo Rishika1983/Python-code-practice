@@ -1,4 +1,3 @@
-# To Practice Python
 import math
 
 st='print only the word that start with s in this sentence'
